@@ -16,7 +16,7 @@ yolov5 = torch.hub.load('yolov5', 'custom', path=CKPT_PATH, source='local', forc
 print("start")
 
 img_open = "data_for_test/test_2.1.jpg"  # путь к изображению с открытыми глазами нужного человека
-img_closed = "data_for_test/test_2.2.jpg"  # путь к изображению с открытыми глазами нужного человека
+img_closed = "data_for_test/test_2.2.jpg"  # путь к изображению с закрытыми глазами нужного человека
 
 predict_image = yolov5([img_open])
 predict_image = predict_image.xyxy[0].data.cpu().numpy().tolist()
