@@ -12,6 +12,8 @@
   
 Чат-бот запущен, теперь переходим по [ссылке](https://t.me/openeyes_ai_bot) и смотрим на работу!  
   
+[![Watch the video](https://drive.google.com/file/d/1ZuDUkojtUFwPwkqSMIgdulg3PclDMMEL/view?usp=share_link)](https://drive.google.com/file/d/1Odpbrn_RP70z0JiPO5igSoOlCC6O81S0/view?usp=sharing)
+  
 Если возникли вопросы по запуску, то можете написать мне  
 telegram: @rfs910  
 email: teplov.andrew@gmail.com
